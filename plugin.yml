@@ -1,0 +1,31 @@
+name: LaPlugin
+main: me.Chase.Main.Main
+author: iHersh
+version: 1.6
+description: >
+             Cool plugin or something.
+commands:
+  staffchat:
+    description: Opens the GUI.
+  sc:
+    description: Opens the GUI.
+  instant:
+    description: Opens the GUI.
+  fall:
+    description: Opens the GUI.
+  help:
+    description: Opens the GUI.
+  staff:
+    description: Opens the GUI.
+  updaterank:
+    description: Opens the GUI.
+  freeze:
+    description: Opens the GUI.
+  vanish:
+    description: Opens the GUI.
+  v:
+    description: Opens the GUI.
+  fly:
+    description: Opens the GUI.
+  weather:
+    description: Opens the GUI.
